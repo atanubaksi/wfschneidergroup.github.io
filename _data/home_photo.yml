@@ -1,6 +1,33 @@
 # Belongs at: /_data/home.yml
 
 - index: 0
+  url: /group_data/home_photos/N2O_NOx_Raghav_2025.jpg
+  title: Contribution of Brønsted Acid Sites to N2O Generation during NOx Reduction over H-CHA Zeolite Catalysts
+  journal: Energy Fuels
+  year: 2025
+  volume: 39
+  pages: 14664–14675
+  link: https://doi.org/10.1021/acs.energyfuels.5c02308
+
+- index: 1
+  url: /group_data/home_photos/ACSCatalysis_Jose_2025.jpeg
+  title: Heterogeneous and Framework-Bound Copper Species Contribute to Catalytic Partial Methane Oxidation in Cu–Chabazite Zeolites
+  journal: ACS Catalysis
+  year: 2025
+  volume: 15
+  pages: 10198-10209
+  link: https://doi.org/10.1021/acscatal.5c00893
+
+- index: 2
+  url: /group_data/home_photos/Plasma_Review_Denver_2025.jpg
+  title: Fundamental insights and emerging opportunities in plasma catalysis for light alkane conversion
+  journal: Current Opinion in Green and Sustainable Chemistry
+  year: 2025
+  volume: 51
+  pages: 100987
+  link: https://doi.org/10.1016/j.cogsc.2024.100987
+
+- index: 3
   url: /group_data/home_photos/SCR-kMC-2024.png
   title: Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu−Zeolite-Catalyzed NOx Reduction
   journal: ACS Catalysis
@@ -9,7 +36,7 @@
   pages: 8376-8388
   link: https://doi.org/10.1021/acscatal.4c01856
 
-- index: 1
+- index: 4
   url: /group_data/home_photos/Krishna-NatureCat.jpg
   title: Influence of framework Al density in chabazite zeolites on copper ion mobility and reactivity during NOx selective catalytic reduction with NH3
   journal: Nature Catalysis
@@ -18,7 +45,7 @@
   pages: 276-285
   link: https://doi.org/10.1038/s41929-023-00932-5
 
-- index: 2
+- index: 5
   url: /group_data/home_photos/NatCommun2022.png
   title: Observation and rationalization of nitrogen oxidation enabled only by coupled plasma and catalyst
   journal: Nature Communications
@@ -27,7 +54,7 @@
   pages: 402
   link: https://doi.org/10.1038/s41467-021-27912-2
 
-- index: 3
+- index: 6
   url: /group_data/home_photos/JCatal2022.png
   title: Consequences of adsorbate-adsorbate interactions for apparent kinetics of surface catalytic reactions
   journal: J. Catal.
@@ -36,7 +63,7 @@
   pages: 410-418
   link: https://doi.org/10.1016/j.jcat.2021.12.005
 
-- index: 4
+- index: 7
   url: /group_data/home_photos/JPhysC2021.jpg
   title: Adsorbate Free Energies from DFT-Derived Translational Energy Landscapes
   journal: J. Phys. Chem. C.
@@ -45,7 +72,7 @@
   pages: 20331-20342
   link: https://doi.org/10.1021/acs.jpcc.1c05917
 
-- index: 5
+- index: 8
   url: /group_data/home_photos/ACSCatalysis2020.png
   title: Plasma-catalytic ammonia synthesis beyond the equilibrium limit
   journal: ACS Catalysis
@@ -54,7 +81,7 @@
   pages: 6726-6734
   link: https:doi.org/10.1021/acscatal.0c00684
 
-- index: 6
+- index: 9
   url: /group_data/home_photos/plasma-review.png
   title: Catalysis enabled by plasma activation of strong chemical bonds
   journal: ACS Energy Letters
@@ -63,7 +90,7 @@
   pages: 1115-1133
   link: https://dx.doi.org/10.1021/acsenergylett.9b00263
 
-- index: 7
+- index: 10
   url: /group_data/home_photos/EST2019.png
   title: Water-mediated reduction of aqueous N-nitrosodimethylamine on Pd
   journal: Environmental Science and Technology
