@@ -7,7 +7,7 @@ layout: default
 
 | Alumni                                                     | Information                                                               | Alumni                                                       | Information                                                                      |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| ![](/group_data/people_photos/xgao2.jpg){: .image_people}  | Dr. Xuyao Gao <br/>CBE Ph.D. 2024<br/> Sinopec | 
+|![](/group_data/people_photos/wge.jpg){: .image_people} | Dr. Wei Ge <br/>CBE Ph.D. 2024<br/> Cummins | ![](/group_data/people_photos/xgao2.jpg){: .image_people}  | Dr. Xuyao Gao <br/>CBE Ph.D. 2024<br/> Sinopec | 
 | ![](/group_data/people_photos/cyan2.png){: .image_people}  | Dr. Chang Yan <br/> CBE Ph.D. 2024 <br/> Post Doc., Argonne National Lab. | ![](/group_data/people_photos/cwaitt.jpeg){: .image_people}  | Dr. Craig Waitt <br/>Chemistry Ph.D. 2023<br/>Post Doc., U. Notre Dame | 
 | ![](/group_data/people_photos/agoswami.jpg){: .image_people}| Dr. Anshuman Goswami <br/> CBE Ph.D. 2023<br/>Post Doc., Stanford U.      | ![](/group_data/people_photos/nmehra.png){: .image_people}   | Dr. Neha Mehra <br/>CBE Ph.D. 2023<br/> National Renew. Energy Lab.              |
 | ![](/group_data/people_photos/ywang40.jpg){: .image_people}| Dr. Yujia Wang <br/>Chemistry Ph.D. 2022<br/>Assist. Prof., Bethel U.     | ![](/group_data/people_photos/jcrum.jpg){: .image_people}    | Dr. Jerry Crum <br/>CBE Ph.D. 2022<br/>Systems Planning and Analysis             |
@@ -27,6 +27,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Steven Yeo | CBE M.Sc., 2025|  |  |
 |Jian Ren Lim | CBE M.Sc., 2021| | First-Principles Interrogation of H2 Reduction Mechanisms on Copper Active Sites in Cu-SSZ-13 Zeolite |
 |Amanda Brown | CBE M.Sc., 2021| | Microkinetic Modeling of HCN Formation from Methane and Nitrogen with the Addition of Vibrational Energy Effects|
 |Gray N Laughlin | CBE M.Sc., 2018|
@@ -34,7 +35,7 @@ layout: default
 |Steven McDonough|Chemistry M.Sc., 2015||Using Through-Space, Dipole-Dipole, and CO-d-band Interactions to Predict the Formation Energy of CO/Pd(111) Configurations|
 |Michelle Morton|Chemistry M.Sc., 2013|Teacher|Effects of Nitrogen Based Anions on CO2 Binding and Proton Affinity|
 |Mandelle Danser|Chemistry M.Sc., 2011|New Jersey Police Department|Beyond the gas phase: towards modeling bulk ionic liquids with a comparison of Density Functional Tight Binding (DFTB) to Density Functional Theory (DFT)|
-|Wenguang Lin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Chemistry M.Sc., 2009&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Notre Dame Business School&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |DFT Simulations of Re3 Cluster Catalysts|
+|Wenguang Lin|Chemistry M.Sc., 2009|Notre Dame Business School|DFT Simulations of Re3 Cluster Catalysts|
 
 * * *
 ### Undergraduate Alumni  
@@ -67,7 +68,9 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Dr. Mingyuan Cao|Post-doc, 2023-2024||
+|Dr. Yingqi Wang|Post-doc, 2024-2025| Amperex Technology Limited, China| |
+|Dr. Rongrong Yin|Post-doc, 2022-2024|| |
+|Dr. Mingyuan Cao|Post-doc, 2023-2024|| |
 |Dr. Haoran He|Post-doc, 2021-2021|BASF|Zeolite catalysis|
 |Dr. Hanyu Ma|Post-doc, 2017-2021 <br> Assistant Research Professor, 2021-2022 | Google |Heterogeneous and plasma catalysis|
 |Dr. Zhenghang Zhao|Post-doc, 2018-2020|Vanderbilt|Zeolite catalysis|
