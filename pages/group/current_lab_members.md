@@ -17,4 +17,4 @@ layout: default
 
 | Member | Information
 |:------------ |:------------
-|![](/group_data/people_photos/abaksi_photo.png){: .image_people}|Atanu Baksi<br/>358 Nieuwland Science Hall<br/>[abaksi@nd.edu](mailto:abaksi@nd.edu)<br/>[<img src="/group_data/people_photos/LinkedIn_logo_initials.png" width="20" style="vertical-align:upper">](https://www.linkedin.com/in/atanubaksi/) [LinkedIn](https://www.linkedin.com/in/atanubaksi/)<br/>Heterogeneous Plasma Catalysis
+|![](/group_data/people_photos/abaksi_photo.png){: .image_people}|Atanu Baksi<br/>358 Nieuwland Science Hall<br/>[abaksi@nd.edu](mailto:abaksi@nd.edu)<br/>[<img src="/group_data/people_photos/LinkedIn_logo_initials.png" width="20" style="vertical-align:middle">](https://www.linkedin.com/in/atanubaksi/) [LinkedIn](https://www.linkedin.com/in/atanubaksi/)<br/>Heterogeneous Plasma Catalysis
