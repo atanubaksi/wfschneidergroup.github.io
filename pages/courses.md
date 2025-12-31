@@ -3,6 +3,10 @@ layout: default
 ---
 We strive to develop and share resources for courses that are useful, insightful, and usable. Anyone is welcome to fork, use, and even contribute improvements to these materials!
 
+**Advanced Chemical Reaction Engineering** (CBE 60546)<br/>
+Fall 2025, 283 Galvin Hall & Lecture, MW 8:35-9:50 am<br/>
+Content available on [Github](https://github.com/wmfschneider/CBE60546)<br/>
+
 **Physical Chemistry for Chemical Engineers** (CHEM 30324)<br/>
 Spring 2020, MWF 9:25-10:15 am, 127 DBRT<br/>
 Optional Text: Engel and Reid, *Physical Chemistry, Benjamin-Cummings* (ISBN: 080533842X)<br/>
