@@ -17,4 +17,4 @@ layout: default
 
 | Member | Information
 |:------------ |:------------
-|![](/group_data/people_photos/abaksi_photo.png){: .image_people}|Atanu Baksi<br/>358 Nieuwland Science Hall<br/>[abaksi@nd.edu](mailto:abaksi@nd.edu)<br/>[<img src="/group_data/people_photos/LinkedIn_logo_initials.png" width="20" style="vertical-align:middle">](https://www.linkedin.com/in/atanubaksi/) [LinkedIn](https://www.linkedin.com/in/atanubaksi/)<br/>Heterogeneous Plasma Catalysis
+|![](/group_data/people_photos/abaksi_photo.png){: .image_people}|Atanu Baksi<br/>358 Nieuwland Science Hall<br/>[abaksi@nd.edu](mailto:abaksi@nd.edu)<br/>[<img src="/group_data/people_photos/LinkedIn_logo_initials.png" width="20" style="vertical-align:middle">](https://www.linkedin.com/in/atanubaksi/) [LinkedIn](https://www.linkedin.com/in/atanubaksi/)<br/>[<img src="/group_data/people_photos/Google_scholar_logo.png" width="20" style="vertical-align:middle">](https://scholar.google.com/citations?user=wbu7J34AAAAJ&hl=en) [Google Scholar](https://scholar.google.com/citations?user=wbu7J34AAAAJ&hl=en)<br/>Heterogeneous Plasma Catalysis
