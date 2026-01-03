@@ -44,18 +44,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    position: relative; 
-    cursor: pointer;
   }
-  .stretched-link::after {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  content: "";
-}
 
   .research-card:hover {
     transform: translateY(-8px);
@@ -190,7 +179,7 @@
           <div class="card-body d-flex flex-column justify-content-center align-items-center">
             <h3 class="card-title">Zeolites for NOx Reduction</h3>
             <!-- <p class="card-text">Molecular speciation in zeolites for emissions control.</p> -->
-            <a href="pages/research/zeolites_for_nox_reduction" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <a href="pages/research/zeolites_for_nox_reduction" class="btn-borderless mt-auto">Explore →</a>
           </div>
         </div>
       </div>
@@ -200,7 +189,7 @@
           <div class="card-body d-flex flex-column justify-content-center align-items-center">
             <h3 class="card-title">Catalysis at Metal Surfaces</h3>
             <!-- <p class="card-text">Decoding reaction mechanisms on metal surfaces.</p> -->
-            <a href="pages/research/catalysis_at_metal_surfaces" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <a href="pages/research/catalysis_at_metal_surfaces" class="btn-borderless mt-auto">Explore →</a>
           </div>
         </div>
       </div>
@@ -210,7 +199,7 @@
           <div class="card-body d-flex flex-column justify-content-center align-items-center">
             <h3 class="card-title">Catalysis for Shale Gas</h3>
             <!-- <p class="card-text">Catalytic strategies for light alkane conversion.</p> -->
-            <a href="pages/research/catalysis_for_shale_gas" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <a href="pages/research/catalysis_for_shale_gas" class="btn-borderless mt-auto">Explore →</a>
           </div>
         </div>
       </div>
@@ -220,7 +209,7 @@
           <div class="card-body d-flex flex-column justify-content-center align-items-center">
             <h3 class="card-title">Non-thermal Plasma Catalysis</h3>
             <!-- <p class="card-text">Non-thermal pathways for sustainable manufacturing.</p> -->
-            <a href="pages/research/energy_directed_catalysis" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <a href="pages/research/energy_directed_catalysis" class="btn-borderless mt-auto">Explore →</a>
           </div>
         </div>
       </div>
